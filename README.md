@@ -10,5 +10,5 @@ Currently, two official plugins are available:
 
 # Commands
 
-npm install
-npm run dev
+- npm install
+- npm run dev
